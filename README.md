@@ -44,7 +44,7 @@
 
 - ✉️ Email: yisireth95@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/yisireth-murcia-ortiz-0b2380184
-- 🔗 Portfolio (optional): [yourportfolio.com]
+- 🔗 Portfolio
 
 ---
 
