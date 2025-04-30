@@ -46,6 +46,8 @@
 - 💼 LinkedIn: www.linkedin.com/in/yisireth-murcia-ortiz-0b2380184
 - 🔗 Portfolio:
 - Dolceluna pasteleria:https://github.com/yisireth95/dolceluna1.git
+- Totoland  muebleria : https://github.com/yisireth95/Totolanmu/tree/master
+- Peluqueria Mia Salon Estudio :https://github.com/yisireth95/SalonMiaStudio.git
 
 ---
 
